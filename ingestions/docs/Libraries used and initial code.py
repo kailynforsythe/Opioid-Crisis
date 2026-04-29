@@ -5,6 +5,8 @@ import os
 import matplotlib.cm as cm
 import statsmodels.formula.api as smf
 import seaborn as sns
+import scipy.stats as stats
+from scipy.stats import chisquare
 os.makedirs("graphs", exist_ok=True)
 
 print('Loading SUDORS-Fatal-Overdose-Data.csv...')

@@ -34,5 +34,5 @@ This project uses Python for all analysis, including:
 - analysis: Statistical models and tests
 reports: Final report and presentation materials
 
-Goal of the Project
+### Goal of the Project
 The main objective is to identify high-risk populations and geographic areas where intervention efforts would have the greatest impact, using insights found with multiple national and local sources.

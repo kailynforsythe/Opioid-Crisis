@@ -28,7 +28,7 @@ This project uses Python for all analysis, including:
 - GIS mapping to visualize geographic hotspots of opioid-related arrests
 
 ### Project Structure
-=- data: Raw and cleaned datasets
+- data: Raw and cleaned datasets
 - ingestion: Data loading and cleaning scripts
 - eda: Exploratory data analysis and visualizations
 - analysis: Statistical models and tests
